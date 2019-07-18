@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 * [X] User can **view a list of todo items**
 * [X] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **stretch** features are implemented:
 
